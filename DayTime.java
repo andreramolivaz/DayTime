@@ -1,4 +1,4 @@
-package daytime.personnettaz;
+package daytime;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
@@ -8,11 +8,8 @@ import java.net.SocketTimeoutException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author personal
- */
-public class DayTimePersonnettaz {
+
+public class DayTime{
 
     /**
      * @param args the command line arguments
